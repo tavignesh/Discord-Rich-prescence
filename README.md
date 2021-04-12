@@ -37,11 +37,9 @@ The config should be fairly easy to setup:
         ![buttons](https://cdn.discordapp.com/attachments/796094479903096902/820843690796515368/unknown.png)
 
 ## Useful Links
-[Python 3.6.6](https://www.python.org/downloads/release/python-366/) 
+[Python 3.6.6](https://www.python.org/downloads/release/python-366/)
 
-[Repo Download: Stable](https://github.com/tazz4843/DCustomRPC/archive/master.zip) 
-
-[Support Server](https://discord.gg/5yXExTsRye)
+[Support Server](https://discord.gg/CjKRmV7ptm)
 
 ## Discord prerequisites:
 Please make sure that game statuses are turned on:
@@ -54,12 +52,4 @@ DCustomRPC requires Python 3.6+. If you have anything older installed, you will 
 ## Starting DCustomRPC in the commandline:
 
 In order to check everything is working in the command line, you can run `py dcustomrpc.pyw`.
-
-## Starting DCustomRPC on boot
-### Linux (untested, but should work)
-
-Add `python3 /path/to/dcustomrpc.pyw &` to `/etc/rc.local`. Don't forget the `&` at the end of the line otherwise your system will not boot!
-### Windows
-
-I don't run Winshit, so I can't check this. If anyone has info, please make a PR!
 "# Discord-Rich-prescence" 
