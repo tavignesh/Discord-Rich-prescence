@@ -1,0 +1,84 @@
+# -----------------
+# DCustomRPC Config
+# -----------------
+# Please read the README.md before asking for support.
+
+# The client ID of the application you made on the Discord Developers page.
+client_id: 831018428164735026
+
+# Enable GUI? If enabled, this will result in a pop-up box when a exception happens. If Discord is closed, this can get *very* annoying, so disabled by default.
+enable_gui: false
+
+game_cycle:
+  # The time until the game cycles in seconds.
+  time_until_cycle: 15
+
+  games:
+    # The list of games that it will cycle through.
+    - details: "Hi there!"
+      state: "I'm Vignesh! Keep a eye on this status for more info."
+      large_image: "info"
+      large_text: "This updates every 15 seconds!"
+      buttons:
+        - label: "INVITE"
+          url: "https://discord.com/oauth2/authorize?client_id=780472070072696852&scope=bot&permissions=809500159"
+
+    - details: "Asteroid the Mutipuropse Bot"
+      state: "Asteroid Bot Getting Verified Soon! And continusly updated!"
+      large_image: "aster"
+      large_text: "24/7 Online with Supercool Features"
+      buttons:
+        - label: "Invite Asteroid"
+          url: "https://discord.com/oauth2/authorize?client_id=780472070072696852&scope=bot&permissions=809500159"
+        - label: "Vote for Asteroid"
+          url: "https://top.gg/bot/780472070072696852/vote"
+
+    - details: "Asteroid Support Server"
+      state: "Join To Support and Test the Bot!"
+      large_image: "aster"
+      large_text: "C'mon Joinn!!"
+      buttons:
+        - label: "Invite Now!"
+          url: "https://discord.com/oauth2/authorize?client_id=780472070072696852&scope=bot&permissions=809500159"
+        - label: "Support Server"
+          url: "https://discord.gg/teszgSR9yK"
+
+    - details: "Asteroid Gaming"
+      state: "Cool Gaming Server"
+      large_image: "agg"
+      large_text: "Asteroid Gaming"
+      buttons:
+        - label: "Join Server"
+          url: "https://discord.gg/CjKRmV7ptm"
+        - label: "YouTube"
+          url: "https://www.youtube.com/channel/UC93ZYb-nP-keIipoZmUNjzg"
+
+    - details: "G-Host"
+      state: "Free Game and Bot Hosting!"
+      large_image: "ghst"
+      large_text: "Really Free!"
+      buttons:
+        - label: "Join Server"
+          url: "https://discord.gg/ZPSG9z9KDT"
+        - label: "Website comming on 20th"
+          url: "https://discord.com/oauth2/authorize?client_id=780472070072696852&scope=bot&permissions=809500159"
+
+    - details: "Contact Me"
+      state: "You are free to ping me in any server and message in social accounts!"
+      large_image: "discord"
+      large_text: "Ya anywhere"
+      buttons:
+        - label: "INSTAGRAM"
+          url: "https://instagram.com/h4k3r_vignesh_ta"
+        - label: "Discord"
+          url: "https://discord.gg/CjKRmV7ptm"
+
+    - details: "That's all!"
+      state: "If you want to get in touch, shoot me a DM or join my server."
+      large_image: "hnd"
+      large_text: "BYE!"
+      buttons:
+        - label: "INVITE Asteroid"
+          url: "https://discord.com/oauth2/authorize?client_id=780472070072696852&scope=bot&permissions=809500159"
+        - label: "Asteroid Support Server"
+          url: "https://discord.gg/teszgSR9yK"

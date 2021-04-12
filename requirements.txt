@@ -1,0 +1,3 @@
+pypresence
+ruamel.yaml
+requests

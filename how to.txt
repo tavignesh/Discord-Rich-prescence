@@ -1,0 +1,8 @@
+open cmd in this folder
+py -m pip install -r requirements.txt
+py dcustomrpc.pyw
+
+if not working then refer to readme.md
+else https://discord.gg/CjKRmV7ptm
+else https://github.com/tazz4843/DCustomRPC
+else RIP
