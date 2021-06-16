@@ -2,9 +2,7 @@
 
 # DCustomRPC: The Rewrite!
 
-**The icon used for this project is [here](https://www.shareicon.net/logo-website-discord-887435).**
-
-DCustomRPC is a custom rich presence client that you (you right there, yes you) can customize.
+DCustomRPC is a custom rich presence client that you can customize yourself!!
 
 ![intro_img](https://i.imgur.com/8Pf5HjT.png)
 
@@ -36,12 +34,12 @@ The config should be fairly easy to setup:
    
         ![buttons](https://cdn.discordapp.com/attachments/796094479903096902/820843690796515368/unknown.png)
 
-## Useful Links
-[Python 3.6.6](https://www.python.org/downloads/release/python-366/)
+<iframe src="https://discord.com/widget?id=780625655657791518&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [Support Server](https://discord.gg/CjKRmV7ptm)
 
-## Discord prerequisites:
+## Prerequisites:
+Make sure you have some brain.
 Please make sure that game statuses are turned on:
 
 ![Game Toggle](https://i.imgur.com/V4FWevH.png)
