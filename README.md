@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/675390855716274216.svg)](https://discord.gg/5yXExTsRye)
+[![Discord](https://img.shields.io/discord/780625655657791518?label=Discord&style=for-the-badge)](https://discord.gg/pDzrEyGpxE)
 
 # DCustomRPC: The Rewrite!
 
@@ -33,8 +33,6 @@ The config should be fairly easy to setup:
     - `buttons` - A list of dicts containing buttons and their URLs. Up to two buttons can be specified.
    
         ![buttons](https://cdn.discordapp.com/attachments/796094479903096902/820843690796515368/unknown.png)
-
-<iframe src="https://discord.com/widget?id=780625655657791518&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [Support Server](https://discord.gg/CjKRmV7ptm)
 
