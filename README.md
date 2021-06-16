@@ -1,5 +1,7 @@
 [![Discord](https://img.shields.io/discord/780625655657791518?label=Discord&style=for-the-badge)](https://discord.gg/pDzrEyGpxE)
 
+[![Made With](https://forthebadge.com/images/badges/made-with-python.svg)](https://discord.gg/pDzrEyGpxE)
+
 # DCustomRPC: The Rewrite!
 
 DCustomRPC is a custom rich presence client that you can customize yourself!!
