@@ -47,7 +47,14 @@ Please make sure that game statuses are turned on:
 ## Setting up DCustomRPC:
 DCustomRPC requires Python 3.6+. If you have anything older installed, you will need to install Python 3.6+ and make sure it is added to the PATH. From here, you can run `py -m pip install -r requirements.txt` (the `py` bit might change to `python3.5`/`python3.6`, try that if you can't get that to work).
 
-## Starting DCustomRPC in the commandline:
+## Starting DCustomRPC:
+
+Running Directly:
+
+1. Install python with PATH (just tick the PATH box during installation)
+2. Open startup.bat
+
+Command Line (cmd):
 
 In order to check everything is working in the command line, you can run `py dcustomrpc.pyw`.
 "# Discord-Rich-prescence" 
