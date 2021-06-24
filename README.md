@@ -57,4 +57,3 @@ Running Directly:
 Command Line (cmd):
 
 In order to check everything is working in the command line, you can run `py dcustomrpc.pyw`.
-"# Discord-Rich-prescence" 
