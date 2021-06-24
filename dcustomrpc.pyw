@@ -187,7 +187,7 @@ def main():
     time_until_cycle = game_cycle.get(
         "time_until_cycle", 10)
     while cycle:
-        for game, i in zip(games, range(total_games)):
+        for i, game in enumerate(games):
             if not cycle:
                 break
 
