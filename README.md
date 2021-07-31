@@ -52,7 +52,8 @@ DCustomRPC requires Python 3.6+. If you have anything older installed, you will 
 Running Directly:
 
 1. Install python with PATH (just tick the PATH box during installation)
-2. Open startup.bat
+2. Edit config.yaml as per your 
+3. Open startup.bat
 
 Command Line (cmd):
 
